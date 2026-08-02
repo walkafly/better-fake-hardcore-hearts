@@ -1,0 +1,46 @@
+{
+    "pack": {
+        "min_format": 84,
+        "max_format": 88,
+        "description": {
+            "text": "modrinth.com/user/walkafly",
+            "type": "text",
+            "color": "#00ff2a",
+            "font": "minecraft:include/default"
+        }
+    },
+    "overlays": {
+        "entries": [
+            {
+                "directory": "darkui_compat_overlay",
+                "min_format": 84,
+                "max_format": 88
+            },
+            {
+                "directory": "wavy_leaves_compat_overlay",
+                "min_format": 84,
+                "max_format": 88
+            },
+            {
+                "directory": "wavy_plants_compat_overlay",
+                "min_format": 84,
+                "max_format": 88
+            },
+            {
+                "directory": "wavy_water_compat_overlay",
+                "min_format": 84,
+                "max_format": 88
+            },
+            {
+                "directory": "overlay_84",
+                "min_format": 84,
+                "max_format": 84
+            },
+            {
+                "directory": "overlay_88",
+                "min_format": 88,
+                "max_format": 88
+            }
+        ]
+    }
+}

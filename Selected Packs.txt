@@ -1,0 +1,4 @@
+Vanilla Tweaks Resource Pack
+Version: 26.2
+Packs:
+	EndPanorama
